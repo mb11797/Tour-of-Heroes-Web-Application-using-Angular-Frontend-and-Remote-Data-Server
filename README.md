@@ -1,0 +1,2 @@
+# Tour-of-Heroes-Web-Application-using-Angular-Frontend-and-Remote-Data-Server
+This Web Application is built using Angular CLI Tool. The Tour of Heroes app helps a staffing agency manage its stable of heroes. The app has many of the features you'd expect to find in any data-driven application. The finished app acquires and displays a list of heroes, edits a selected hero's detail, and navigates among different views of heroic data.
