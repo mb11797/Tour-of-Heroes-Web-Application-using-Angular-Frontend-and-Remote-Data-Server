@@ -2,7 +2,6 @@
 
 ![image](https://github.com/mb11797/Tour-of-Heroes-Web-Application-using-Angular-Frontend-and-Remote-Data-Server/blob/master/Tour-of-Heroes-Web-App-Angular%20Demo%20Part%202.gif)
 
-# HelloWorld
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
 The Tour of Heroes app helps a staffing agency manage its stable of heroes. The app has many of the features you'd expect to find in any data-driven application. The finished app acquires and displays a list of heroes, edits a selected hero's detail, and navigates among different views of heroic data.
