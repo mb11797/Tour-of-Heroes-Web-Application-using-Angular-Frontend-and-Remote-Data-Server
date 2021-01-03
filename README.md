@@ -1,6 +1,6 @@
 # Tour-of-Heroes-Web-Application-using-Angular-Frontend-and-Remote-Data-Server
 
-!(image)[https://github.com/mb11797/Tour-of-Heroes-Web-Application-using-Angular-Frontend-and-Remote-Data-Server/blob/master/Tour-of-Heroes-Web-App-Angular%20Demo%20Part%202.gif]
+![image](https://github.com/mb11797/Tour-of-Heroes-Web-Application-using-Angular-Frontend-and-Remote-Data-Server/blob/master/Tour-of-Heroes-Web-App-Angular%20Demo%20Part%202.gif)
 
 # HelloWorld
 
